@@ -1,0 +1,13 @@
+@media screen and (max-width: 768px) {
+  .article-sort-item-info .article-sort-item-title {
+    height: 55% !important;
+  }
+}
+
+.article-sort-item-title {
+  -webkit-line-clamp: 2 !important;
+}
+
+.back-menu-list-groups {
+  display: none;
+}
